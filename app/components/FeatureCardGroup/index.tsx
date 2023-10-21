@@ -3,7 +3,13 @@ import Image from 'next/image';
 
 import FeatureCard from '../FeatureCard';
 
-const FeatureCardGroup = ({ char, items }) => {
+const FeatureCardGroup = ({
+  char,
+  items,
+}: {
+  char: string;
+  items: { name: string; url: string }[];
+}) => {
   return (
     <Box
       sx={{
@@ -39,7 +45,7 @@ const FeatureCardGroup = ({ char, items }) => {
         </Text>
       </Box>
       <Box zIndex={5}>
-        {items.map((item, index) => (
+        {items.map((item: { name: string; url: string }, index: number) => (
           <FeatureCard
             key={index}
             iconSvg='rocket.svg'

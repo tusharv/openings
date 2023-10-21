@@ -103,7 +103,9 @@ const Container = () => {
             bg='$white'
             placeholder='Enter Text here'
             value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+              setSearchTerm(e.target.value)
+            }
           />
           <InputSlot p='$3'>
             <InputIcon as={SearchIcon} color='$white'></InputIcon>
