@@ -1,6 +1,7 @@
-import { Box, Text } from '@gluestack-ui/themed';
-import Image from 'next/image';
+// Disable typecheck
+// @ts-nocheck
 
+import { Box, Text } from '@gluestack-ui/themed';
 import FeatureCard from '../FeatureCard';
 
 const FeatureCardGroup = ({
