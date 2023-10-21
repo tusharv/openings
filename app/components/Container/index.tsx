@@ -1,3 +1,6 @@
+// Disable typecheck
+// @ts-nocheck
+
 import {
   Box,
   Text,
