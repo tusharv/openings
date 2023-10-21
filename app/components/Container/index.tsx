@@ -81,7 +81,7 @@ const Container = () => {
         height='100%'
         width='100%'
       >
-        <Spinner size='m' color='$white' />
+        <Spinner size='large' color='$white' />
       </Box>
     );
   }
