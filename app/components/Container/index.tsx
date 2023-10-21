@@ -78,8 +78,8 @@ const Container = () => {
         justifyContent='center'
         alignItems='center'
         bg='$black'
-        height='100vh'
-        width='100vw'
+        height='100%'
+        width='100%'
       >
         <Spinner size='m' color='$white' />
       </Box>
@@ -92,8 +92,8 @@ const Container = () => {
         justifyContent='center'
         alignItems='center'
         bg='$black'
-        height='100vh'
-        width='100vw'
+        height='100%'
+        width='100%'
       >
         <Text color='$white' fontWeight='$bold' size='xl'>
           Error fetching data
@@ -105,8 +105,8 @@ const Container = () => {
   return (
     <Box
       bg='$black'
-      height='100vh'
-      width='100vw'
+      height='100%'
+      width='100%'
       overflow='scroll'
       scrollBehavior='smooth'
     >
