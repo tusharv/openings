@@ -6,6 +6,7 @@ import {
   InputIcon,
   SearchIcon,
   InputSlot,
+  Spinner,
 } from '@gluestack-ui/themed';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
@@ -17,10 +18,17 @@ interface ICompany {
   url: string;
 }
 
+enum PAGE_STATE {
+  LOADING = 'Loading',
+  ERROR = 'Error',
+  SUCCESS = 'Success',
+}
+
 const Container = () => {
   const [data, setData] = useState([] as ICompany[]);
   const [rawData, setRawData] = useState([] as ICompany[]);
   const [searchTerm, setSearchTerm] = useState('' as string);
+  const [pageState, setPageState] = useState(PAGE_STATE.LOADING);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -29,8 +37,10 @@ const Container = () => {
         const jsonData = await response.json();
         setData(jsonData);
         setRawData(jsonData);
+        setPageState(PAGE_STATE.SUCCESS);
       } catch (error) {
         console.error('Error fetching data:', error);
+        setPageState(PAGE_STATE.ERROR);
       }
     };
 
@@ -61,6 +71,36 @@ const Container = () => {
     },
     {}
   );
+
+  if (pageState === PAGE_STATE.LOADING) {
+    return (
+      <Box
+        justifyContent='center'
+        alignItems='center'
+        bg='$black'
+        h='100vh'
+        w='100vw'
+      >
+        <Spinner size='m' color='$white' />
+      </Box>
+    );
+  }
+
+  if (pageState === PAGE_STATE.ERROR) {
+    return (
+      <Box
+        justifyContent='center'
+        alignItems='center'
+        bg='$black'
+        h='100vh'
+        w='100vw'
+      >
+        <Text color='$white' fontWeight='$bold' size='xl'>
+          Error fetching data
+        </Text>
+      </Box>
+    );
+  }
 
   return (
     <Box
