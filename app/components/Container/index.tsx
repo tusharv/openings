@@ -103,13 +103,7 @@ const Container = () => {
   }
 
   return (
-    <Box
-      bg='$black'
-      height='100%'
-      width='100%'
-      overflow='scroll'
-      scrollBehavior='smooth'
-    >
+    <Box bg='$black' height='100%' width='100%' overflow='scroll'>
       <Box
         position='fixed'
         sx={{
