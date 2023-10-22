@@ -10,6 +10,11 @@ const FeatureCard = ({ iconSvg, name, desc }: any) => {
       m='$2'
       p='$4'
       rounded='$md'
+      sx={{
+        '@base': {
+          minWidth: '300px',
+        },
+      }}
     >
       <Box alignItems='center' display='flex' flexDirection='row'>
         <Image

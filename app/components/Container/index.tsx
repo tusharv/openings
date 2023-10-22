@@ -122,9 +122,17 @@ const Container = () => {
       >
         <Image src='/gradient.svg' alt='Gradient' fill priority />
       </Box>
-      <Box>
+      <Box
+        display='flex'
+        flexDirection='row'
+        justifyContent='center'
+        alignItems='center'
+        flexWrap='nowrap'
+        m='$2'
+      >
+        <Image width={56} height={56} src='/career.svg' alt='Career' priority />
         <Text color='$white' fontWeight='$bold' m='$2' p='$4' size='6xl'>
-          More than Big Tech
+          Career Pages
         </Text>
       </Box>
       <Box m='$4' p='$4'>
@@ -152,7 +160,7 @@ const Container = () => {
       <Box justifyContent='center' alignItems='center' m='$2'>
         {data.length > 0 && (
           <Text color='$white' fontWeight='$normal' ml='$2' pl='$4' size='xl'>
-            Career Page from {data.length} Compnies
+            Career Page from {data.length} Companies
           </Text>
         )}
       </Box>
@@ -186,6 +194,53 @@ const Container = () => {
           {Object.entries(groupedData).map(([char, items]) => (
             <FeatureCardGroup key={char} char={char} items={items} />
           ))}
+        </Box>
+        <Box
+          display='flex'
+          justifyContent='center'
+          alignItems='center'
+          m='$2'
+          sx={{
+            '@base': {
+              flexDirection: 'column',
+              flexWrap: 'wrap',
+            },
+            '@md': {
+              flexDirection: 'row',
+            },
+          }}
+        >
+          <Box flexDirection='row' px='$4'>
+            <a
+              href='https://icon-icons.com/icon/man-people-businessman-worker-employee-career/210714'
+              target='_blank'
+            >
+              <Text pl='$2' color='$white'>
+                Free Icon
+              </Text>
+            </a>
+          </Box>
+          <Box flexDirection='row' px='$4' alignItems='center'>
+            <a href='https://gluestack.io/' target='_blank'>
+              <Image
+                width={139}
+                height={23}
+                src='/logo.svg'
+                alt='Gluestack'
+                priority
+              />
+            </a>
+          </Box>
+          <Box flexDirection='row' px='$4'>
+            <a
+              href='https://github.com/Kaustubh-Natuskar/moreThanFAANGM'
+              target='_blank'
+            >
+              <Text pl='$2' color='$white'>
+                Data
+              </Text>
+            </a>
+          </Box>
         </Box>
       </Box>
     </Box>
