@@ -2,6 +2,7 @@ import './globals.css';
 import { Lato } from 'next/font/google';
 import { Providers } from './providers';
 import StyledJsxRegistry from './registry';
+import { Analytics } from '@vercel/analytics/react';
 
 const lato = Lato({
   subsets: ['latin'],
@@ -24,6 +25,7 @@ export default function RootLayout({
         <Providers>
           <StyledJsxRegistry>{children}</StyledJsxRegistry>
         </Providers>
+        <Analytics />
       </body>
     </html>
   );
