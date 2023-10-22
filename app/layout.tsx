@@ -9,7 +9,7 @@ const lato = Lato({
 });
 
 export const metadata = {
-  title: 'More than Big Tech',
+  title: 'Career Pages',
   description: 'Build using https://gluestack.io/',
 };
 
