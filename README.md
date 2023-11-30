@@ -3,6 +3,9 @@
 
 This repo has good, alphabetically sorted list of companies with link of their career page.
 
+# Social
+<a href="https://www.producthunt.com/posts/career-pages?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-career&#0045;pages" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=427488&theme=light" alt="Career&#0032;Pages - Career&#0032;pages&#0032;from&#0032;450&#0043;&#0032;tech&#0032;companies | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Task
 - Convert [this](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/README.md) `README.md` file to website 🕸
 - Site should display Alphabets and clicking on it should display list of company
