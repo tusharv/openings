@@ -715,5 +715,8 @@
   { "name": "1 mg", "url": "https://www.1mg.com/jobs" },
   { "name": "3i Infotech", "url": "https://www.3i-infotech.com/careers/" },
   { "name": "314e Corporation", "url": "https://www.314e.com/" },
-  { "name": "247.ai", "url": "https://www.247.ai/company/careers" }
+  { "name": "247.ai", "url": "https://www.247.ai/company/careers" },
+  { "name": "4i Apps", "url": "https://www.4iapps.com/careers/#jobs" },
+  { "name": "Huggingface", "url": "https://apply.workable.com/huggingface/" },
+  { "name": "Topcoder", "url": "https://www.topcoder.com/gigs?referralId=sl3r4z"}
 ]
