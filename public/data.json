@@ -15,89 +15,230 @@
     "name": "Adobe",
     "url": "https://www.adobe.com/careers.html"
   },
-  { "name": "Able", "url": "https://able.co/team" },
-  { "name": "Abstract", "url": "https://angel.co/company/abstract/jobs" },
-  { "name": "Acko", "url": "https://acko.skillate.com/" },
-  { "name": "Accredible", "url": "https://careers.accredible.com/" },
+  {
+    "name": "Able",
+    "url": "https://able.co/team"
+  },
+  {
+    "name": "Abstract",
+    "url": "https://angel.co/company/abstract/jobs"
+  },
+  {
+    "name": "Acko",
+    "url": "https://acko.skillate.com/"
+  },
+  {
+    "name": "Accredible",
+    "url": "https://careers.accredible.com/"
+  },
   {
     "name": "Activision Blizzard",
     "url": "https://careers.activisionblizzard.com/"
   },
-  { "name": "Affinidi", "url": "https://www.affinidi.com/careers" },
-  { "name": "Agile Solutions", "url": "http://agilesolutions.com/careers-2/" },
-  { "name": "Agnikul Cosmos", "url": "https://agnikul.in/#/career" },
-  { "name": "Airbase", "url": "https://www.airbase.com/careers" },
-  { "name": "Airbnb", "url": "https://careers.airbnb.com/" },
-  { "name": "Airbus", "url": "https://www.airbus.com/careers.html" },
-  { "name": "Airtel x labs", "url": "https://careers.airtel.com/" },
-  { "name": "Ajio", "url": "https://www.ajio.com/ajio-careers" },
-  { "name": "Akamai", "url": "https://www.akamai.com/careers" },
+  {
+    "name": "Affinidi",
+    "url": "https://www.affinidi.com/careers"
+  },
+  {
+    "name": "Agile Solutions",
+    "url": "http://agilesolutions.com/careers-2/"
+  },
+  {
+    "name": "Agnikul Cosmos",
+    "url": "https://agnikul.in/#/career"
+  },
+  {
+    "name": "Airbase",
+    "url": "https://www.airbase.com/careers"
+  },
+  {
+    "name": "Airbnb",
+    "url": "https://careers.airbnb.com/"
+  },
+  {
+    "name": "Airbus",
+    "url": "https://www.airbus.com/careers.html"
+  },
+  {
+    "name": "Airtel x labs",
+    "url": "https://careers.airtel.com/"
+  },
+  {
+    "name": "Ajio",
+    "url": "https://www.ajio.com/ajio-careers"
+  },
+  {
+    "name": "Akamai",
+    "url": "https://www.akamai.com/careers"
+  },
   {
     "name": "Alibaba Group",
     "url": "https://talent.alibaba.com/en/home?lang=en"
   },
-  { "name": "Alstom", "url": "https://www.alstom.com/careers" },
-  { "name": "Alpha-grep", "url": "https://www.alpha-grep.com/career/" },
-  { "name": "Alphonso", "url": "https://lgads.tv/careers/" },
-  { "name": "Amadeus labs", "url": "https://jobs.amadeus.com/" },
-  { "name": "Amagi", "url": "https://www.amagi.com/careers" },
-  { "name": "AMD", "url": "https://careers.amd.com/careers-home" },
-  { "name": "Amazon", "url": "https://www.amazon.jobs/en/" },
-  { "name": "Amdocs", "url": "https://asset.amdocs.com/careers/" },
+  {
+    "name": "Alstom",
+    "url": "https://www.alstom.com/careers"
+  },
+  {
+    "name": "Alpha-grep",
+    "url": "https://www.alpha-grep.com/career/"
+  },
+  {
+    "name": "Alphonso",
+    "url": "https://lgads.tv/careers/"
+  },
+  {
+    "name": "Amadeus labs",
+    "url": "https://jobs.amadeus.com/"
+  },
+  {
+    "name": "Amagi",
+    "url": "https://www.amagi.com/careers"
+  },
+  {
+    "name": "AMD",
+    "url": "https://careers.amd.com/careers-home"
+  },
+  {
+    "name": "Amazon",
+    "url": "https://www.amazon.jobs/en/"
+  },
+  {
+    "name": "Amdocs",
+    "url": "https://asset.amdocs.com/careers/"
+  },
   {
     "name": "American express",
     "url": "https://www.americanexpress.com/en-us/careers/"
   },
-  { "name": "Amway", "url": "https://www.amway.in/about-amway/careers" },
-  { "name": "Angelone", "url": "https://www.angelone.in/careers" },
+  {
+    "name": "Amway",
+    "url": "https://www.amway.in/about-amway/careers"
+  },
+  {
+    "name": "Angelone",
+    "url": "https://www.angelone.in/careers"
+  },
   {
     "name": "Analog Devices",
     "url": "https://www.analog.com/en/about-adi/careers.html"
   },
-  { "name": "Ansys", "url": "https://www.ansys.com/en-in/careers" },
-  { "name": "Apna", "url": "https://www.instahyre.com/jobs-at-apna/" },
+  {
+    "name": "Ansys",
+    "url": "https://www.ansys.com/en-in/careers"
+  },
+  {
+    "name": "Apna",
+    "url": "https://www.instahyre.com/jobs-at-apna/"
+  },
   {
     "name": "App Dynamics",
     "url": "https://www.appdynamics.com/company/careers/india"
   },
-  { "name": "Appen", "url": "https://appen.com/jobs/" },
-  { "name": "Appfolio", "url": "https://www.appfolio.com/company/careers" },
-  { "name": "Apple", "url": "https://www.apple.com/careers/us/" },
-  { "name": "AppInventiv", "url": "https://appinventiv.com/career/" },
+  {
+    "name": "Appen",
+    "url": "https://appen.com/jobs/"
+  },
+  {
+    "name": "Appfolio",
+    "url": "https://www.appfolio.com/company/careers"
+  },
+  {
+    "name": "Apple",
+    "url": "https://www.apple.com/careers/us/"
+  },
+  {
+    "name": "AppInventiv",
+    "url": "https://appinventiv.com/career/"
+  },
   {
     "name": "Applied Materials",
     "url": "https://www.appliedmaterials.com/us/en/careers.html"
   },
-  { "name": "Aptiv", "url": "https://jobs.aptiv.com/" },
-  { "name": "AQR", "url": "https://www.aqr.com/About-Us/Careers" },
-  { "name": "Arcesium", "url": "https://www.arcesium.com/careers.html" },
-  { "name": "Arista Networks", "url": "https://www.arista.com/en/careers" },
+  {
+    "name": "Aptiv",
+    "url": "https://jobs.aptiv.com/"
+  },
+  {
+    "name": "AQR",
+    "url": "https://www.aqr.com/About-Us/Careers"
+  },
+  {
+    "name": "Arcesium",
+    "url": "https://www.arcesium.com/careers.html"
+  },
+  {
+    "name": "Arista Networks",
+    "url": "https://www.arista.com/en/careers"
+  },
   {
     "name": "Aryaka networks",
     "url": "https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in"
   },
-  { "name": "Asteria Aerospace Ltd", "url": "https://asteria.co.in/careers/" },
-  { "name": "ASML", "url": "https://www.asml.com/en/careers" },
-  { "name": "Athena Health", "url": "https://www.athenahealth.com/careers" },
-  { "name": "Atlan", "url": "https://atlan.com/careers/" },
-  { "name": "Atlassian", "url": "https://www.atlassian.com/company/careers" },
-  { "name": "Automatic Data Processing", "url": "https://jobs.adp.com/" },
-  { "name": "Auzmor", "url": "https://auzmor.com/career/" },
-  { "name": "Avail finance", "url": "https://availfinance.in/opportunities/" },
+  {
+    "name": "Asteria Aerospace Ltd",
+    "url": "https://asteria.co.in/careers/"
+  },
+  {
+    "name": "ASML",
+    "url": "https://www.asml.com/en/careers"
+  },
+  {
+    "name": "Athena Health",
+    "url": "https://www.athenahealth.com/careers"
+  },
+  {
+    "name": "Atlan",
+    "url": "https://atlan.com/careers/"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://www.atlassian.com/company/careers"
+  },
+  {
+    "name": "Automatic Data Processing",
+    "url": "https://jobs.adp.com/"
+  },
+  {
+    "name": "Auzmor",
+    "url": "https://auzmor.com/career/"
+  },
+  {
+    "name": "Avail finance",
+    "url": "https://availfinance.in/opportunities/"
+  },
   {
     "name": "Avalara",
     "url": "https://www.avalara.com/us/en/about/jobs/job-openings.html"
   },
-  { "name": "Avaya", "url": "https://careers.avaya.com/" },
-  { "name": "Barclays", "url": "https://home.barclays/careers/" },
-  { "name": "Bain & Co", "url": "https://www.bain.com/careers/" },
-  { "name": "BARC India", "url": "https://www.barcindia.co.in/life-at-barc" },
-  { "name": "bankbazaar", "url": "https://www.bankbazaar.com/careers.html" },
+  {
+    "name": "Avaya",
+    "url": "https://careers.avaya.com/"
+  },
+  {
+    "name": "Barclays",
+    "url": "https://home.barclays/careers/"
+  },
+  {
+    "name": "Bain & Co",
+    "url": "https://www.bain.com/careers/"
+  },
+  {
+    "name": "BARC India",
+    "url": "https://www.barcindia.co.in/life-at-barc"
+  },
+  {
+    "name": "bankbazaar",
+    "url": "https://www.bankbazaar.com/careers.html"
+  },
   {
     "name": "Bazaarvoice",
     "url": "https://www.bazaarvoice.com/company/careers/"
   },
-  { "name": "BCG", "url": "https://careers.bcg.com/" },
+  {
+    "name": "BCG",
+    "url": "https://careers.bcg.com/"
+  },
   {
     "name": "Bellatrix Aerospace",
     "url": "http://www.bellatrixaerospace.com/"
@@ -106,37 +247,82 @@
     "name": "Benchmark",
     "url": "https://benchmarkit.zohorecruit.com/jobs/Careers"
   },
-  { "name": "Better", "url": "https://better.com/about-us/careers" },
-  { "name": "BharatPe", "url": "https://bharatpe.com/career" },
+  {
+    "name": "Better",
+    "url": "https://better.com/about-us/careers"
+  },
+  {
+    "name": "BharatPe",
+    "url": "https://bharatpe.com/career"
+  },
   {
     "name": "Bidgely",
     "url": "https://www.bidgely.com/bidgely-career-opportunities/"
   },
-  { "name": "BigBasket", "url": "https://careers.bigbasket.com/" },
+  {
+    "name": "BigBasket",
+    "url": "https://careers.bigbasket.com/"
+  },
   {
     "name": "bitdefender",
     "url": "https://www.bitdefender.com/company/job-opportunities/"
   },
-  { "name": "bitly", "url": "https://bitly.com/pages/careers" },
-  { "name": "BlackBuck", "url": "https://www.blackbuck.com/careers.php" },
-  { "name": "Blackrock", "url": "https://careers.blackrock.com/" },
+  {
+    "name": "bitly",
+    "url": "https://bitly.com/pages/careers"
+  },
+  {
+    "name": "BlackBuck",
+    "url": "https://www.blackbuck.com/careers.php"
+  },
+  {
+    "name": "Blackrock",
+    "url": "https://careers.blackrock.com/"
+  },
   {
     "name": "blackberry",
     "url": "https://bb.wd3.myworkdayjobs.com/BlackBerry/jobs"
   },
-  { "name": "Block Inc", "url": "https://block.xyz/careers" },
-  { "name": "Bloomberg LP", "url": "https://careers.bloomberg.com/job/search" },
-  { "name": "BlueJeans", "url": "https://www.bluejeans.com/careers" },
-  { "name": "blueorigin", "url": "https://www.blueorigin.com/careers" },
+  {
+    "name": "Block Inc",
+    "url": "https://block.xyz/careers"
+  },
+  {
+    "name": "Bloomberg LP",
+    "url": "https://careers.bloomberg.com/job/search"
+  },
+  {
+    "name": "BlueJeans",
+    "url": "https://www.bluejeans.com/careers"
+  },
+  {
+    "name": "blueorigin",
+    "url": "https://www.blueorigin.com/careers"
+  },
   {
     "name": "Bluestacks",
     "url": "https://www.bluestacks.com/work-at-bluestacks.html"
   },
-  { "name": "BMC software", "url": "https://www.bmc.com/careers/careers.html" },
-  { "name": "BNY Mellon", "url": "https://jobs.bnymellon.com/" },
-  { "name": "Boeing", "url": "https://jobs.boeing.com/" },
-  { "name": "Booking.com", "url": "https://jobs.booking.com/careers" },
-  { "name": "Bosch", "url": "https://www.bosch.in/careers/" },
+  {
+    "name": "BMC software",
+    "url": "https://www.bmc.com/careers/careers.html"
+  },
+  {
+    "name": "BNY Mellon",
+    "url": "https://jobs.bnymellon.com/"
+  },
+  {
+    "name": "Boeing",
+    "url": "https://jobs.boeing.com/"
+  },
+  {
+    "name": "Booking.com",
+    "url": "https://jobs.booking.com/careers"
+  },
+  {
+    "name": "Bosch",
+    "url": "https://www.bosch.in/careers/"
+  },
   {
     "name": "Bottemline Technologies",
     "url": "https://www.bottomline.com/apac/about/careers"
@@ -145,18 +331,30 @@
     "name": "Bounce",
     "url": "https://careers-bounce.peoplestrong.com/portal/job/joblist"
   },
-  { "name": "Box", "url": "https://www.box.com/en-in/careers" },
+  {
+    "name": "Box",
+    "url": "https://www.box.com/en-in/careers"
+  },
   {
     "name": "Brahmastra Aerospace",
     "url": "https://www.brahmastraspace.org/career"
   },
-  { "name": "Browser stack", "url": "https://www.browserstack.com/careers" },
-  { "name": "Broadcom", "url": "https://www.broadcom.com/company/careers" },
+  {
+    "name": "Browser stack",
+    "url": "https://www.browserstack.com/careers"
+  },
+  {
+    "name": "Broadcom",
+    "url": "https://www.broadcom.com/company/careers"
+  },
   {
     "name": "BukuWarung",
     "url": "https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579"
   },
-  { "name": "ByteDance", "url": "https://jobs.bytedance.com/en" },
+  {
+    "name": "ByteDance",
+    "url": "https://jobs.bytedance.com/en"
+  },
   {
     "name": "Cadence",
     "url": "https://www.cadence.com/en_US/home/company/careers.html"
@@ -165,18 +363,54 @@
     "name": "Capillary",
     "url": "https://www.capillarytech.com/about-us/careers/"
   },
-  { "name": "Capital One", "url": "https://www.capitalonecareers.com/" },
-  { "name": "CarDekho", "url": "https://careers.cardekho.com/" },
-  { "name": "Careem", "url": "https://www.careem.com/en-ae/careers/" },
-  { "name": "CarWale", "url": "https://www.carwale.com/career/" },
-  { "name": "Cashfree", "url": "https://www.cashfree.com/careers" },
-  { "name": "Cimpress", "url": "https://cimpress.com/careers/" },
-  { "name": "Celigo", "url": "https://www.celigo.com/company/careers/" },
-  { "name": "Cerner", "url": "https://careers.cerner.com/" },
-  { "name": "Chargebee", "url": "https://careers.chargebee.com/jobs/" },
-  { "name": "Checkout.com", "url": "https://www.checkout.com/careers#jobs" },
-  { "name": "Chronus", "url": "https://chronus.com/about-us/careers" },
-  { "name": "Cisco", "url": "https://jobs.cisco.com/" },
+  {
+    "name": "Capital One",
+    "url": "https://www.capitalonecareers.com/"
+  },
+  {
+    "name": "CarDekho",
+    "url": "https://careers.cardekho.com/"
+  },
+  {
+    "name": "Careem",
+    "url": "https://www.careem.com/en-ae/careers/"
+  },
+  {
+    "name": "CarWale",
+    "url": "https://www.carwale.com/career/"
+  },
+  {
+    "name": "Cashfree",
+    "url": "https://www.cashfree.com/careers"
+  },
+  {
+    "name": "Cimpress",
+    "url": "https://cimpress.com/careers/"
+  },
+  {
+    "name": "Celigo",
+    "url": "https://www.celigo.com/company/careers/"
+  },
+  {
+    "name": "Cerner",
+    "url": "https://careers.cerner.com/"
+  },
+  {
+    "name": "Chargebee",
+    "url": "https://careers.chargebee.com/jobs/"
+  },
+  {
+    "name": "Checkout.com",
+    "url": "https://www.checkout.com/careers#jobs"
+  },
+  {
+    "name": "Chronus",
+    "url": "https://chronus.com/about-us/careers"
+  },
+  {
+    "name": "Cisco",
+    "url": "https://jobs.cisco.com/"
+  },
   {
     "name": "Citadel",
     "url": "https://www.citadel.com/careers/open-positions/"
@@ -185,15 +419,30 @@
     "name": "Citadel Securities",
     "url": "https://www.citadelsecurities.com/careers/open-roles/"
   },
-  { "name": "Citrix", "url": "https://jobs.citrix.com/" },
+  {
+    "name": "Citrix",
+    "url": "https://jobs.citrix.com/"
+  },
   {
     "name": "Classplus",
     "url": "https://www.linkedin.com/jobs/classplus-jobs/?originalSubdomain=in"
   },
-  { "name": "ClearGlass", "url": "https://clearglass.com/careers/" },
-  { "name": "Cleartrip", "url": "https://careers.cleartrip.com/#!/" },
-  { "name": "Cloudera", "url": "https://www.cloudera.com/careers.html" },
-  { "name": "cloudflare", "url": "https://www.cloudflare.com/careers/jobs/" },
+  {
+    "name": "ClearGlass",
+    "url": "https://clearglass.com/careers/"
+  },
+  {
+    "name": "Cleartrip",
+    "url": "https://careers.cleartrip.com/#!/"
+  },
+  {
+    "name": "Cloudera",
+    "url": "https://www.cloudera.com/careers.html"
+  },
+  {
+    "name": "cloudflare",
+    "url": "https://www.cloudflare.com/careers/jobs/"
+  },
   {
     "name": "Codenation innovation labs",
     "url": "http://codenation.co.in/hiringprocess.html"
@@ -206,22 +455,46 @@
     "name": "CodingNinjas",
     "url": "https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in"
   },
-  { "name": "Cognizant", "url": "https://careers.cognizant.com/in/en" },
-  { "name": "CoinBase", "url": "https://www.coinbase.com/careers" },
-  { "name": "CoinDCX", "url": "https://careers.coindcx.com/" },
+  {
+    "name": "Cognizant",
+    "url": "https://careers.cognizant.com/in/en"
+  },
+  {
+    "name": "CoinBase",
+    "url": "https://www.coinbase.com/careers"
+  },
+  {
+    "name": "CoinDCX",
+    "url": "https://careers.coindcx.com/"
+  },
   {
     "name": "Coinswitch kuber",
     "url": "https://recruiterflow.com/coinswitch/jobs"
   },
-  { "name": "Commvault", "url": "https://careers.commvault.com/" },
-  { "name": "Continental", "url": "https://www.continental.com/en/career/" },
-  { "name": "Contra", "url": "https://contra.com/careers" },
-  { "name": "Coupang", "url": "https://rocketyourcareer.usa.coupang.com/" },
+  {
+    "name": "Commvault",
+    "url": "https://careers.commvault.com/"
+  },
+  {
+    "name": "Continental",
+    "url": "https://www.continental.com/en/career/"
+  },
+  {
+    "name": "Contra",
+    "url": "https://contra.com/careers"
+  },
+  {
+    "name": "Coupang",
+    "url": "https://rocketyourcareer.usa.coupang.com/"
+  },
   {
     "name": "Cradlepoint",
     "url": "https://cradlepoint.com/about-us/careers/job-listings/"
   },
-  { "name": "Cred", "url": "https://careers.cred.club/" },
+  {
+    "name": "Cred",
+    "url": "https://careers.cred.club/"
+  },
   {
     "name": "Credit Suisse",
     "url": "https://www.credit-suisse.com/careers/en/apply.html"
@@ -230,32 +503,86 @@
     "name": "Crestron",
     "url": "https://www.crestron.com/About/careers-jobs-employment-opportunities"
   },
-  { "name": "Crowdstrike", "url": "https://www.crowdstrike.com/careers/" },
-  { "name": "CSS Corp", "url": "https://www.csscorp.com/company/careers/" },
-  { "name": "cure.fit", "url": "https://www.cult.fit/careers" },
-  { "name": "Cvent", "url": "https://www.cvent.com/en/careers" },
-  { "name": "DailyHunt", "url": "https://careers.dailyhunt.com/#!/" },
-  { "name": "Dashlane", "url": "https://www.dashlane.com/about/careers" },
+  {
+    "name": "Crowdstrike",
+    "url": "https://www.crowdstrike.com/careers/"
+  },
+  {
+    "name": "CSS Corp",
+    "url": "https://www.csscorp.com/company/careers/"
+  },
+  {
+    "name": "cure.fit",
+    "url": "https://www.cult.fit/careers"
+  },
+  {
+    "name": "Cvent",
+    "url": "https://www.cvent.com/en/careers"
+  },
+  {
+    "name": "DailyHunt",
+    "url": "https://careers.dailyhunt.com/#!/"
+  },
+  {
+    "name": "Dashlane",
+    "url": "https://www.dashlane.com/about/careers"
+  },
   {
     "name": "Databricks",
     "url": "https://databricks.com/company/careers/open-positions"
   },
-  { "name": "Dataminr", "url": "https://www.dataminr.com/careers" },
-  { "name": "DBS", "url": "https://www.dbs.com/careers/default.page" },
+  {
+    "name": "Dataminr",
+    "url": "https://www.dataminr.com/careers"
+  },
+  {
+    "name": "DBS",
+    "url": "https://www.dbs.com/careers/default.page"
+  },
   {
     "name": "D. E. Shaw & Co.",
     "url": "https://www.deshawindia.com/careers/career-development"
   },
-  { "name": "DealShare", "url": "https://www.dealshare.in/careers#home" },
-  { "name": "Delhivery", "url": "https://www.delhivery.com/careers/" },
-  { "name": "Dell", "url": "https://jobs.dell.com/" },
-  { "name": "Deutsche Bank", "url": "https://careers.db.com/" },
-  { "name": "Dhruva Space", "url": "https://angel.co/company/dhruvaspace" },
-  { "name": "Dialpad", "url": "https://www.dialpad.com/careers/" },
-  { "name": "Directi", "url": "https://careers.directi.com/" },
-  { "name": "digit", "url": "https://digit.co/careers" },
-  { "name": "digitalocean", "url": "https://www.digitalocean.com/careers" },
-  { "name": "Discord", "url": "https://discord.com/jobs" },
+  {
+    "name": "DealShare",
+    "url": "https://www.dealshare.in/careers#home"
+  },
+  {
+    "name": "Delhivery",
+    "url": "https://www.delhivery.com/careers/"
+  },
+  {
+    "name": "Dell",
+    "url": "https://jobs.dell.com/"
+  },
+  {
+    "name": "Deutsche Bank",
+    "url": "https://careers.db.com/"
+  },
+  {
+    "name": "Dhruva Space",
+    "url": "https://angel.co/company/dhruvaspace"
+  },
+  {
+    "name": "Dialpad",
+    "url": "https://www.dialpad.com/careers/"
+  },
+  {
+    "name": "Directi",
+    "url": "https://careers.directi.com/"
+  },
+  {
+    "name": "digit",
+    "url": "https://digit.co/careers"
+  },
+  {
+    "name": "digitalocean",
+    "url": "https://www.digitalocean.com/careers"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com/jobs"
+  },
   {
     "name": "Discovery inc",
     "url": "https://jobs.discovery.com/careers-home/"
@@ -264,185 +591,530 @@
     "name": "Disney",
     "url": "https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2"
   },
-  { "name": "dolby", "url": "https://www.dolby.com/careers/" },
-  { "name": "DoorDash", "url": "https://careers.doordash.com/" },
-  { "name": "doximity", "url": "https://www.doximity.com/careers" },
+  {
+    "name": "dolby",
+    "url": "https://www.dolby.com/careers/"
+  },
+  {
+    "name": "DoorDash",
+    "url": "https://careers.doordash.com/"
+  },
+  {
+    "name": "doximity",
+    "url": "https://www.doximity.com/careers"
+  },
   {
     "name": "DP World",
     "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions"
   },
-  { "name": "DRDO", "url": "https://www.drdo.gov.in/careers" },
-  { "name": "Dream11", "url": "https://www.dreamsports.group/careers" },
-  { "name": "droom", "url": "https://droom.in/career" },
-  { "name": "Dropbox", "url": "https://www.dropbox.com/jobs" },
-  { "name": "Druva", "url": "https://www.druva.com/about/careers/" },
-  { "name": "Dukaan", "url": "https://angel.co/company/dukaan-app/jobs" },
-  { "name": "Dunzo", "url": "https://www.dunzo.com/careers#jobs" },
-  { "name": "duo", "url": "https://duo.com/careers" },
-  { "name": "DuPont", "url": "https://careers.dupont.com/us/en" },
-  { "name": "dynatrace", "url": "https://careers.dynatrace.com/" },
-  { "name": "EA Games", "url": "https://www.ea.com/careers" },
-  { "name": "eBay", "url": "https://jobs.ebayinc.com/us/en" },
-  { "name": "Enfussion", "url": "https://enfusion.com/careers/" },
+  {
+    "name": "DRDO",
+    "url": "https://www.drdo.gov.in/careers"
+  },
+  {
+    "name": "Dream11",
+    "url": "https://www.dreamsports.group/careers"
+  },
+  {
+    "name": "droom",
+    "url": "https://droom.in/career"
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com/jobs"
+  },
+  {
+    "name": "Druva",
+    "url": "https://www.druva.com/about/careers/"
+  },
+  {
+    "name": "Dukaan",
+    "url": "https://angel.co/company/dukaan-app/jobs"
+  },
+  {
+    "name": "Dunzo",
+    "url": "https://www.dunzo.com/careers#jobs"
+  },
+  {
+    "name": "duo",
+    "url": "https://duo.com/careers"
+  },
+  {
+    "name": "DuPont",
+    "url": "https://careers.dupont.com/us/en"
+  },
+  {
+    "name": "dynatrace",
+    "url": "https://careers.dynatrace.com/"
+  },
+  {
+    "name": "EA Games",
+    "url": "https://www.ea.com/careers"
+  },
+  {
+    "name": "eBay",
+    "url": "https://jobs.ebayinc.com/us/en"
+  },
+  {
+    "name": "Enfussion",
+    "url": "https://enfusion.com/careers/"
+  },
   {
     "name": "Envestnet Yoodlee",
     "url": "https://www.yodlee.com/oceania/india-careers"
   },
-  { "name": "Epam", "url": "https://www.epam.com/" },
+  {
+    "name": "Epam",
+    "url": "https://www.epam.com/"
+  },
   {
     "name": "Epic Games",
     "url": "https://www.epicgames.com/site/en-US/careers"
   },
-  { "name": "Ericsson", "url": "https://www.ericsson.com/en/careers" },
-  { "name": "Eurofins", "url": "https://careers.eurofins.com/in/" },
-  { "name": "Equinix", "url": "https://careers.equinix.com/homepage" },
-  { "name": "EXL Healthcare", "url": "https://exlservice.com/careers" },
-  { "name": "Expedia", "url": "https://lifeatexpediagroup.com/jobs/" },
-  { "name": "EY", "url": "https://careers.ey.com/" },
-  { "name": "EyeROV", "url": "https://www.eyerov.com/careers/" },
-  { "name": "F5", "url": "https://www.f5.com/company/careers/" },
-  { "name": "factset", "url": "https://www.factset.com/careers" },
-  { "name": "FamPay", "url": "https://fampay.in/careers" },
-  { "name": "Fidelity investments", "url": "https://jobs.fidelity.com/" },
-  { "name": "FireEye inc", "url": "https://www.fireeye.com/company/jobs.html" },
-  { "name": "Fischer Jordan", "url": "https://fischerjordan.com/careers/" },
-  { "name": "fiserv", "url": "https://www.careers.fiserv.com/" },
-  { "name": "Flexport", "url": "https://www.flexport.com/careers/jobs/" },
-  { "name": "Flipkart", "url": "https://www.flipkartcareers.com/" },
+  {
+    "name": "Ericsson",
+    "url": "https://www.ericsson.com/en/careers"
+  },
+  {
+    "name": "Eurofins",
+    "url": "https://careers.eurofins.com/in/"
+  },
+  {
+    "name": "Equinix",
+    "url": "https://careers.equinix.com/homepage"
+  },
+  {
+    "name": "EXL Healthcare",
+    "url": "https://exlservice.com/careers"
+  },
+  {
+    "name": "Expedia",
+    "url": "https://lifeatexpediagroup.com/jobs/"
+  },
+  {
+    "name": "EY",
+    "url": "https://careers.ey.com/"
+  },
+  {
+    "name": "EyeROV",
+    "url": "https://www.eyerov.com/careers/"
+  },
+  {
+    "name": "F5",
+    "url": "https://www.f5.com/company/careers/"
+  },
+  {
+    "name": "factset",
+    "url": "https://www.factset.com/careers"
+  },
+  {
+    "name": "FamPay",
+    "url": "https://fampay.in/careers"
+  },
+  {
+    "name": "Fidelity investments",
+    "url": "https://jobs.fidelity.com/"
+  },
+  {
+    "name": "FireEye inc",
+    "url": "https://www.fireeye.com/company/jobs.html"
+  },
+  {
+    "name": "Fischer Jordan",
+    "url": "https://fischerjordan.com/careers/"
+  },
+  {
+    "name": "fiserv",
+    "url": "https://www.careers.fiserv.com/"
+  },
+  {
+    "name": "Flexport",
+    "url": "https://www.flexport.com/careers/jobs/"
+  },
+  {
+    "name": "Flipkart",
+    "url": "https://www.flipkartcareers.com/"
+  },
   {
     "name": "FlyFin",
     "url": "https://www.linkedin.com/company/flyfin-ai/jobs/"
   },
-  { "name": "fincover", "url": "https://www.fincover.com/" },
-  { "name": "Fractal", "url": "https://fractal.ai/job-openings/" },
-  { "name": "Frappe Technologies", "url": "https://frappe.io/careers" },
-  { "name": "FreeCharge", "url": "https://careers.freecharge.in/" },
+  {
+    "name": "fincover",
+    "url": "https://www.fincover.com/"
+  },
+  {
+    "name": "Fractal",
+    "url": "https://fractal.ai/job-openings/"
+  },
+  {
+    "name": "Frappe Technologies",
+    "url": "https://frappe.io/careers"
+  },
+  {
+    "name": "FreeCharge",
+    "url": "https://careers.freecharge.in/"
+  },
   {
     "name": "Freshworks",
     "url": "https://www.freshworks.com/company/life-at-freshworks/careers/"
   },
-  { "name": "Furlenco", "url": "https://jobs.furlenco.com/" },
-  { "name": "fyle", "url": "https://www.fylehq.com/company/team/join" },
-  { "name": "Fico", "url": "https://www.fico.com/en/careers" },
-  { "name": "Fujitsu", "url": "https://www.fujitsu.com/global/about/careers/" },
-  { "name": "Gartner", "url": "https://jobs.gartner.com/" },
+  {
+    "name": "Furlenco",
+    "url": "https://jobs.furlenco.com/"
+  },
+  {
+    "name": "fyle",
+    "url": "https://www.fylehq.com/company/team/join"
+  },
+  {
+    "name": "Fico",
+    "url": "https://www.fico.com/en/careers"
+  },
+  {
+    "name": "Fujitsu",
+    "url": "https://www.fujitsu.com/global/about/careers/"
+  },
+  {
+    "name": "Gartner",
+    "url": "https://jobs.gartner.com/"
+  },
   {
     "name": "Garuda Aerospace private Ltd",
     "url": "https://www.garudaaerospace.com/"
   },
-  { "name": "GeeksForGeeks", "url": "https://www.geeksforgeeks.org/careers/?" },
-  { "name": "GE", "url": "https://www.ge.com/in/careers/opportunities" },
+  {
+    "name": "GeeksForGeeks",
+    "url": "https://www.geeksforgeeks.org/careers/?"
+  },
+  {
+    "name": "GE",
+    "url": "https://www.ge.com/in/careers/opportunities"
+  },
   {
     "name": "GE Healthcare",
     "url": "https://jobs.gecareers.com/healthcare/global/en"
   },
-  { "name": "GeekyAnts", "url": "https://geekyants.com/join-geekyants" },
-  { "name": "Genpact", "url": "https://www.genpact.com/careers" },
-  { "name": "Ghost", "url": "https://careers.ghost.org/" },
-  { "name": "Github", "url": "https://github.com/about/careers" },
-  { "name": "Gitlab", "url": "https://about.gitlab.com/jobs/" },
+  {
+    "name": "GeekyAnts",
+    "url": "https://geekyants.com/join-geekyants"
+  },
+  {
+    "name": "Genpact",
+    "url": "https://www.genpact.com/careers"
+  },
+  {
+    "name": "Ghost",
+    "url": "https://careers.ghost.org/"
+  },
+  {
+    "name": "Github",
+    "url": "https://github.com/about/careers"
+  },
+  {
+    "name": "Gitlab",
+    "url": "https://about.gitlab.com/jobs/"
+  },
   {
     "name": "Glass Door",
     "url": "https://www.glassdoor.com/Jobs/Glassdoor-Jobs-E100431.htm"
   },
-  { "name": "GoDaddy", "url": "https://careers.godaddy.com/" },
-  { "name": "GoDigit", "url": "https://www.godigit.com/" },
+  {
+    "name": "GoDaddy",
+    "url": "https://careers.godaddy.com/"
+  },
+  {
+    "name": "GoDigit",
+    "url": "https://www.godigit.com/"
+  },
   {
     "name": "Godrej Aerospace",
     "url": "https://www.godrej.com/godrejandboyce/gnb-careers"
   },
-  { "name": "Gojek", "url": "https://career.gojek.com/" },
-  { "name": "Goldman Sachs", "url": "https://www.goldmansachs.com/careers/" },
-  { "name": "Google", "url": "https://careers.google.com/" },
-  { "name": "Go Pro", "url": "https://jobs.gopro.com/?lang=en-us#/" },
-  { "name": "Global Logic", "url": "https://www.globallogic.com/in/careers/" },
-  { "name": "Grab", "url": "https://grab.careers/" },
-  { "name": "Grafana", "url": "https://grafana.com/about/careers/" },
+  {
+    "name": "Gojek",
+    "url": "https://career.gojek.com/"
+  },
+  {
+    "name": "Goldman Sachs",
+    "url": "https://www.goldmansachs.com/careers/"
+  },
+  {
+    "name": "Google",
+    "url": "https://careers.google.com/"
+  },
+  {
+    "name": "Go Pro",
+    "url": "https://jobs.gopro.com/?lang=en-us#/"
+  },
+  {
+    "name": "Global Logic",
+    "url": "https://www.globallogic.com/in/careers/"
+  },
+  {
+    "name": "Grab",
+    "url": "https://grab.careers/"
+  },
+  {
+    "name": "Grafana",
+    "url": "https://grafana.com/about/careers/"
+  },
   {
     "name": "Gravitont Rading",
     "url": "https://www.gravitontrading.com/careers.html"
   },
-  { "name": "Groupon", "url": "https://www.grouponcareers.com/" },
-  { "name": "Grofers", "url": "https://grofers.com/careers/" },
-  { "name": "Groww", "url": "https://groww.skillate.com/" },
-  { "name": "Hackerearth", "url": "https://www.hackerearth.com/careers/" },
-  { "name": "HackerRank", "url": "https://www.hackerrank.com/careers/" },
-  { "name": "Hashedin", "url": "https://hashedin.com/careers/" },
-  { "name": "Hashnode", "url": "https://careers.hashnode.com/jobs" },
-  { "name": "HBO", "url": "https://warnermediacareers.com/hbo-jobs" },
-  { "name": "HCL Tech", "url": "https://www.hcltech.com/careers" },
-  { "name": "HealthAsyst", "url": "https://www.healthasyst.com/careers/" },
-  { "name": "Healthify me", "url": "https://www.healthifyme.com/careers/" },
-  { "name": "HERE", "url": "https://www.here.com/careers" },
-  { "name": "Hexagone", "url": "https://hexagon.com/about/careers" },
-  { "name": "Disney", "url": "https://jobs.disneycareers.com/" },
-  { "name": "Hotstar", "url": "https://tech.hotstar.com/" },
-  { "name": "Honeywell", "url": "https://careers.honeywell.com/" },
-  { "name": "HP", "url": "https://jobs.hp.com/" },
-  { "name": "Hub Spot", "url": "https://www.hubspot.com/careers/" },
-  { "name": "IAC", "url": "https://www.iac.com/join-team" },
-  { "name": "IBM", "url": "https://www.ibm.com/in-en/employment/" },
-  { "name": "IdeaForge", "url": "https://www.ideaforge.co.in/career/" },
-  { "name": "IHS Markit", "url": "https://careers.ihsmarkit.com/" },
+  {
+    "name": "Groupon",
+    "url": "https://www.grouponcareers.com/"
+  },
+  {
+    "name": "Grofers",
+    "url": "https://grofers.com/careers/"
+  },
+  {
+    "name": "Groww",
+    "url": "https://groww.skillate.com/"
+  },
+  {
+    "name": "Hackerearth",
+    "url": "https://www.hackerearth.com/careers/"
+  },
+  {
+    "name": "HackerRank",
+    "url": "https://www.hackerrank.com/careers/"
+  },
+  {
+    "name": "Hashedin",
+    "url": "https://hashedin.com/careers/"
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://careers.hashnode.com/jobs"
+  },
+  {
+    "name": "HBO",
+    "url": "https://warnermediacareers.com/hbo-jobs"
+  },
+  {
+    "name": "HCL Tech",
+    "url": "https://www.hcltech.com/careers"
+  },
+  {
+    "name": "HealthAsyst",
+    "url": "https://www.healthasyst.com/careers/"
+  },
+  {
+    "name": "Healthify me",
+    "url": "https://www.healthifyme.com/careers/"
+  },
+  {
+    "name": "HERE",
+    "url": "https://www.here.com/careers"
+  },
+  {
+    "name": "Hexagone",
+    "url": "https://hexagon.com/about/careers"
+  },
+  {
+    "name": "Disney",
+    "url": "https://jobs.disneycareers.com/"
+  },
+  {
+    "name": "Hotstar",
+    "url": "https://tech.hotstar.com/"
+  },
+  {
+    "name": "Honeywell",
+    "url": "https://careers.honeywell.com/"
+  },
+  {
+    "name": "HP",
+    "url": "https://jobs.hp.com/"
+  },
+  {
+    "name": "Hub Spot",
+    "url": "https://www.hubspot.com/careers/"
+  },
+  {
+    "name": "IAC",
+    "url": "https://www.iac.com/join-team"
+  },
+  {
+    "name": "IBM",
+    "url": "https://www.ibm.com/in-en/employment/"
+  },
+  {
+    "name": "IdeaForge",
+    "url": "https://www.ideaforge.co.in/career/"
+  },
+  {
+    "name": "IHS Markit",
+    "url": "https://careers.ihsmarkit.com/"
+  },
   {
     "name": "Impact Analytics",
     "url": "https://www.impactanalytics.co/join-us/"
   },
-  { "name": "Indeed", "url": "https://in.indeed.com/cmp/Indeed" },
-  { "name": "India Mart", "url": "https://careers.indiamart.com/" },
-  { "name": "Infor", "url": "https://www.infor.com/nordics/about/careers" },
-  { "name": "Informatica", "url": "https://informatica.gr8people.com/jobs" },
-  { "name": "Infospoke", "url": "http://www.infospoke.in/careers.html" },
-  { "name": "Inmobi", "url": "https://www.inmobi.com/company/careers/" },
-  { "name": "Innovaccer", "url": "https://innovaccer.com/careers/" },
+  {
+    "name": "Indeed",
+    "url": "https://in.indeed.com/cmp/Indeed"
+  },
+  {
+    "name": "India Mart",
+    "url": "https://careers.indiamart.com/"
+  },
+  {
+    "name": "Infor",
+    "url": "https://www.infor.com/nordics/about/careers"
+  },
+  {
+    "name": "Informatica",
+    "url": "https://informatica.gr8people.com/jobs"
+  },
+  {
+    "name": "Infospoke",
+    "url": "http://www.infospoke.in/careers.html"
+  },
+  {
+    "name": "Inmobi",
+    "url": "https://www.inmobi.com/company/careers/"
+  },
+  {
+    "name": "Innovaccer",
+    "url": "https://innovaccer.com/careers/"
+  },
   {
     "name": "Intel",
     "url": "https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html"
   },
-  { "name": "Intellika", "url": "https://www.intellika.in/careers/" },
-  { "name": "Intuit", "url": "https://www.intuit.com/careers/" },
-  { "name": "IP Infusion", "url": "https://www.ipinfusion.com/career/" },
-  { "name": "ISRO", "url": "https://www.isro.gov.in/careers" },
-  { "name": "iQuanti", "url": "https://www.iquanti.com/contact-us/careers/" },
-  { "name": "Jaguar", "url": "https://www.jaguarlandrovercareers.com/" },
-  { "name": "Jio", "url": "https://careers.jio.com/" },
-  { "name": "JM Financial", "url": "https://jmfl.com/careers" },
-  { "name": "JP Morgan", "url": "https://careers.jpmorgan.com/IN/en/home" },
+  {
+    "name": "Intellika",
+    "url": "https://www.intellika.in/careers/"
+  },
+  {
+    "name": "Intuit",
+    "url": "https://www.intuit.com/careers/"
+  },
+  {
+    "name": "IP Infusion",
+    "url": "https://www.ipinfusion.com/career/"
+  },
+  {
+    "name": "ISRO",
+    "url": "https://www.isro.gov.in/careers"
+  },
+  {
+    "name": "iQuanti",
+    "url": "https://www.iquanti.com/contact-us/careers/"
+  },
+  {
+    "name": "Jaguar",
+    "url": "https://www.jaguarlandrovercareers.com/"
+  },
+  {
+    "name": "Jio",
+    "url": "https://careers.jio.com/"
+  },
+  {
+    "name": "JM Financial",
+    "url": "https://jmfl.com/careers"
+  },
+  {
+    "name": "JP Morgan",
+    "url": "https://careers.jpmorgan.com/IN/en/home"
+  },
   {
     "name": "Juniper networks",
     "url": "https://www.juniper.net/us/en/company/culture-careers.html"
   },
-  { "name": "Jupiter money", "url": "https://jobs.lever.co/jupiter" },
-  { "name": "Juspay", "url": "https://www.juspay.in/careers/" },
-  { "name": "Jumbotail", "url": "https://jumbotail.com/careers/" },
-  { "name": "Kantar", "url": "https://www.kantar.com/careers" },
+  {
+    "name": "Jupiter money",
+    "url": "https://jobs.lever.co/jupiter"
+  },
+  {
+    "name": "Juspay",
+    "url": "https://www.juspay.in/careers/"
+  },
+  {
+    "name": "Jumbotail",
+    "url": "https://jumbotail.com/careers/"
+  },
+  {
+    "name": "Kantar",
+    "url": "https://www.kantar.com/careers"
+  },
   {
     "name": "Kesari bharat",
     "url": "https://www.linkedin.com/in/deepak-sharda-6594561b1/"
   },
-  { "name": "Keyence", "url": "https://www.keyence.com/ss/careers/" },
-  { "name": "Keyvalue", "url": "https://keyvalue.systems/" },
-  { "name": "Khatabook", "url": "https://khatabook.com/hiring" },
-  { "name": "khoros", "url": "https://khoros.com/about/careers" },
-  { "name": "KLA Tencor", "url": "https://www.kla-tencor.com/careers" },
-  { "name": "Koch", "url": "https://jobs.kochcareers.com/" },
-  { "name": "LambdaTest", "url": "https://www.lambdatest.com/career" },
+  {
+    "name": "Keyence",
+    "url": "https://www.keyence.com/ss/careers/"
+  },
+  {
+    "name": "Keyvalue",
+    "url": "https://keyvalue.systems/"
+  },
+  {
+    "name": "Khatabook",
+    "url": "https://khatabook.com/hiring"
+  },
+  {
+    "name": "khoros",
+    "url": "https://khoros.com/about/careers"
+  },
+  {
+    "name": "KLA Tencor",
+    "url": "https://www.kla-tencor.com/careers"
+  },
+  {
+    "name": "Koch",
+    "url": "https://jobs.kochcareers.com/"
+  },
+  {
+    "name": "LambdaTest",
+    "url": "https://www.lambdatest.com/career"
+  },
   {
     "name": "Lam Research",
     "url": "https://www.lamresearch.com/careers/careers-overview/"
   },
-  { "name": "Land rover", "url": "https://www.jaguarlandrovercareers.com/" },
-  { "name": "Lenskart", "url": "https://hiring.lenskart.com/" },
-  { "name": "Lenovo", "url": "https://jobs.lenovo.com/en_US/careers" },
-  { "name": "Leap Finance", "url": "https://leapfinance.freshteam.com/jobs" },
-  { "name": "Licious", "url": "https://www.careers.in/" },
+  {
+    "name": "Land rover",
+    "url": "https://www.jaguarlandrovercareers.com/"
+  },
+  {
+    "name": "Lenskart",
+    "url": "https://hiring.lenskart.com/"
+  },
+  {
+    "name": "Lenovo",
+    "url": "https://jobs.lenovo.com/en_US/careers"
+  },
+  {
+    "name": "Leap Finance",
+    "url": "https://leapfinance.freshteam.com/jobs"
+  },
+  {
+    "name": "Licious",
+    "url": "https://careers.licious.com/"
+  },
   {
     "name": "Liebherr",
     "url": "https://www.liebherr.com/en/usa/start/start-page.html"
   },
-  { "name": "LinkedIn", "url": "https://careers.linkedin.com/" },
-  { "name": "LogicFruit", "url": "https://www.logic-fruit.com/" },
-  { "name": "Logicmonitor", "url": "https://www.logicmonitor.com/careers" },
+  {
+    "name": "LinkedIn",
+    "url": "https://careers.linkedin.com/"
+  },
+  {
+    "name": "LogicFruit",
+    "url": "https://www.logic-fruit.com/"
+  },
+  {
+    "name": "Logicmonitor",
+    "url": "https://www.logicmonitor.com/careers"
+  },
   {
     "name": "Lowe's companies, inc",
     "url": "https://corporate.lowes.com/careers/search-apply"
@@ -451,37 +1123,94 @@
     "name": "Magicpin",
     "url": "https://magicpin.darwinbox.in/ms/candidate/careers"
   },
-  { "name": "MakeMyTrip", "url": "https://careers.makemytrip.com/" },
+  {
+    "name": "MakeMyTrip",
+    "url": "https://careers.makemytrip.com/"
+  },
   {
     "name": "Mastercard",
     "url": "https://www.mastercard.us/en-us/vision/who-we-are/careers.html"
   },
-  { "name": "Mastery", "url": "https://mastery.net/careers/" },
+  {
+    "name": "Mastery",
+    "url": "https://mastery.net/careers/"
+  },
   {
     "name": "Mathworks",
     "url": "https://in.mathworks.com/company/jobs/opportunities.html"
   },
-  { "name": "Maq Software", "url": "https://maqsoftware.com/" },
-  { "name": "McKinsey", "url": "https://www.mckinsey.com/in/careers-in-india" },
-  { "name": "Media.net", "url": "https://careers.media.net/" },
-  { "name": "Meta", "url": "https://www.metacareers.com/" },
-  { "name": "Meesho", "url": "https://careers.meesho.com/" },
-  { "name": "Memory", "url": "https://memory.ai/jobs" },
-  { "name": "Micron", "url": "https://micron.eightfold.ai/careers" },
-  { "name": "Microsoft", "url": "https://careers.microsoft.com/us/en" },
-  { "name": "MindTickle", "url": "https://www.mindtickle.com/careers/" },
-  { "name": "MobiKwik", "url": "https://mobikwik.recruiterbox.com/" },
+  {
+    "name": "Maq Software",
+    "url": "https://maqsoftware.com/"
+  },
+  {
+    "name": "McKinsey",
+    "url": "https://www.mckinsey.com/in/careers-in-india"
+  },
+  {
+    "name": "Media.net",
+    "url": "https://careers.media.net/"
+  },
+  {
+    "name": "Meta",
+    "url": "https://www.metacareers.com/"
+  },
+  {
+    "name": "Meesho",
+    "url": "https://careers.meesho.com/"
+  },
+  {
+    "name": "Memory",
+    "url": "https://memory.ai/jobs"
+  },
+  {
+    "name": "Micron",
+    "url": "https://micron.eightfold.ai/careers"
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://careers.microsoft.com/us/en"
+  },
+  {
+    "name": "MindTickle",
+    "url": "https://www.mindtickle.com/careers/"
+  },
+  {
+    "name": "MobiKwik",
+    "url": "https://mobikwik.recruiterbox.com/"
+  },
   {
     "name": "Morgan Stanley",
     "url": "https://www.morganstanley.com/people-opportunities/"
   },
-  { "name": "Mount talent", "url": "https://careers.mounttalent.com/" },
-  { "name": "MPL", "url": "https://mpl.darwinbox.in/ms/candidate/careers" },
-  { "name": "MTX", "url": "https://www.mtxb2b.com/s/career" },
-  { "name": "Multiverse Software", "url": "https://multiverseapp.com/" },
-  { "name": "Myntra", "url": "https://careers.myntra.com/" },
-  { "name": "Nagarro", "url": "https://www.nagarro.com/en/careers" },
-  { "name": "NASDAQ", "url": "https://www.nasdaq.com/about/careers" },
+  {
+    "name": "Mount talent",
+    "url": "https://careers.mounttalent.com/"
+  },
+  {
+    "name": "MPL",
+    "url": "https://mpl.darwinbox.in/ms/candidate/careers"
+  },
+  {
+    "name": "MTX",
+    "url": "https://www.mtxb2b.com/s/career"
+  },
+  {
+    "name": "Multiverse Software",
+    "url": "https://multiverseapp.com/"
+  },
+  {
+    "name": "Myntra",
+    "url": "https://careers.myntra.com/"
+  },
+  {
+    "name": "Nagarro",
+    "url": "https://www.nagarro.com/en/careers"
+  },
+  {
+    "name": "NASDAQ",
+    "url": "https://www.nasdaq.com/about/careers"
+  },
   {
     "name": "National instruments",
     "url": "https://www.ni.com/en-in/about-ni/careers.html"
@@ -490,75 +1219,186 @@
     "name": "NatWest Group",
     "url": "https://jobs.natwestgroup.com/search/jobs/in/country/india"
   },
-  { "name": "navi", "url": "https://www.navifinserv.com/life-at-chaitanya" },
-  { "name": "NCR Corporation", "url": "https://www.ncr.com/careers" },
-  { "name": "NetApp", "url": "https://www.netapp.com/company/careers/" },
-  { "name": "Netcracker", "url": "https://www.netcracker.com/careers/" },
-  { "name": "Netflix", "url": "https://jobs.netflix.com/" },
+  {
+    "name": "navi",
+    "url": "https://www.navifinserv.com/life-at-chaitanya"
+  },
+  {
+    "name": "NCR Corporation",
+    "url": "https://www.ncr.com/careers"
+  },
+  {
+    "name": "NetApp",
+    "url": "https://www.netapp.com/company/careers/"
+  },
+  {
+    "name": "Netcracker",
+    "url": "https://www.netcracker.com/careers/"
+  },
+  {
+    "name": "Netflix",
+    "url": "https://jobs.netflix.com/"
+  },
   {
     "name": "Netmeds",
     "url": "https://netmeds.darwinbox.in/ms/candidate/careers"
   },
-  { "name": "Nike", "url": "https://jobs.nike.com/" },
-  { "name": "Ninjacart", "url": "https://ninjacart.in/careers/" },
-  { "name": "Nokia", "url": "https://www.nokia.com/about-us/careers/" },
-  { "name": "nurture.farm", "url": "https://nurture.farm/join-us/" },
-  { "name": "Nutanix", "url": "https://www.nutanix.com/company/careers" },
+  {
+    "name": "Nike",
+    "url": "https://jobs.nike.com/"
+  },
+  {
+    "name": "Ninjacart",
+    "url": "https://ninjacart.in/careers/"
+  },
+  {
+    "name": "Nokia",
+    "url": "https://www.nokia.com/about-us/careers/"
+  },
+  {
+    "name": "nurture.farm",
+    "url": "https://nurture.farm/join-us/"
+  },
+  {
+    "name": "Nutanix",
+    "url": "https://www.nutanix.com/company/careers"
+  },
   {
     "name": "Nvidia",
     "url": "https://www.nvidia.com/en-in/about-nvidia/careers/"
   },
-  { "name": "Nykaa", "url": "https://www.nykaa.com/careers" },
-  { "name": "Ninjacart", "url": "https://ninjacart.in/careers/" },
-  { "name": "Obvious", "url": "https://obvious.in/careers" },
-  { "name": "Ocrolus", "url": "https://www.ocrolus.com/careers/" },
-  { "name": "Ola", "url": "https://www.olacabs.com/careers" },
-  { "name": "Olx", "url": "https://careers.olxgroup.com/" },
-  { "name": "Oneplus", "url": "https://www.oneplus.com/global/careers" },
-  { "name": "Oracle", "url": "https://www.oracle.com/apac/corporate/careers/" },
-  { "name": "OYO", "url": "https://www.naukri.com/oyo-jobs-careers-2884032" },
+  {
+    "name": "Nykaa",
+    "url": "https://www.nykaa.com/careers"
+  },
+  {
+    "name": "Ninjacart",
+    "url": "https://ninjacart.in/careers/"
+  },
+  {
+    "name": "Obvious",
+    "url": "https://obvious.in/careers"
+  },
+  {
+    "name": "Ocrolus",
+    "url": "https://www.ocrolus.com/careers/"
+  },
+  {
+    "name": "Ola",
+    "url": "https://www.olacabs.com/careers"
+  },
+  {
+    "name": "Olx",
+    "url": "https://careers.olxgroup.com/"
+  },
+  {
+    "name": "Oneplus",
+    "url": "https://www.oneplus.com/global/careers"
+  },
+  {
+    "name": "Oracle",
+    "url": "https://www.oracle.com/apac/corporate/careers/"
+  },
+  {
+    "name": "OYO",
+    "url": "https://www.naukri.com/oyo-jobs-careers-2884032"
+  },
   {
     "name": "Observe.ai",
     "url": "https://www.observe.ai/careers#section-current-openings"
   },
-  { "name": "Open AI", "url": "https://openai.com/careers" },
-  { "name": "OpenText", "url": "https://careers.opentext.com/" },
-  { "name": "Optum", "url": "https://www.optum.in/about/careers.html" },
-  { "name": "Optym", "url": "https://optym.com/careers/" },
+  {
+    "name": "Open AI",
+    "url": "https://openai.com/careers"
+  },
+  {
+    "name": "OpenText",
+    "url": "https://careers.opentext.com/"
+  },
+  {
+    "name": "Optum",
+    "url": "https://www.optum.in/about/careers.html"
+  },
+  {
+    "name": "Optym",
+    "url": "https://optym.com/careers/"
+  },
   {
     "name": "Palo Alto Networks",
     "url": "https://jobs.paloaltonetworks.com/en/"
   },
-  { "name": "Park+", "url": "https://parkplus.io/we-are-hiring#hiring" },
-  { "name": "Paypal", "url": "https://www.paypal.com/in/webapps/mpp/jobs" },
-  { "name": "Paytm", "url": "https://paytm.com/careers/" },
-  { "name": "PayU", "url": "https://payu.in/careers" },
-  { "name": "Pazo", "url": "https://www.gopazo.com/" },
-  { "name": "PeopleStrong", "url": "https://www.peoplestrong.com/careers/" },
+  {
+    "name": "Park+",
+    "url": "https://parkplus.io/we-are-hiring#hiring"
+  },
+  {
+    "name": "Paypal",
+    "url": "https://www.paypal.com/in/webapps/mpp/jobs"
+  },
+  {
+    "name": "Paytm",
+    "url": "https://paytm.com/careers/"
+  },
+  {
+    "name": "PayU",
+    "url": "https://payu.in/careers"
+  },
+  {
+    "name": "Pazo",
+    "url": "https://www.gopazo.com/"
+  },
+  {
+    "name": "PeopleStrong",
+    "url": "https://www.peoplestrong.com/careers/"
+  },
   {
     "name": "persistent systems",
     "url": "https://www.persistent.com/careers/"
   },
-  { "name": "PharmEasy", "url": "https://pharmeasy.in/careers/" },
+  {
+    "name": "PharmEasy",
+    "url": "https://pharmeasy.in/careers/"
+  },
   {
     "name": "Phillips",
     "url": "https://www.careers.philips.com/professional/in/en"
   },
-  { "name": "Phonepe", "url": "https://www.phonepe.com/careers/" },
-  { "name": "Playment", "url": "https://www.playment.io/careers" },
-  { "name": "Planful", "url": "https://planful.com/jobs/" },
+  {
+    "name": "Phonepe",
+    "url": "https://www.phonepe.com/careers/"
+  },
+  {
+    "name": "Playment",
+    "url": "https://www.playment.io/careers"
+  },
+  {
+    "name": "Planful",
+    "url": "https://planful.com/jobs/"
+  },
   {
     "name": "Polygon Technology",
     "url": "https://polygon.technology/careers/"
   },
-  { "name": "postman", "url": "https://www.postman.com/company/careers/" },
-  { "name": "Practo", "url": "https://practo.app.param.ai/jobs" },
-  { "name": "priceline", "url": "https://careers.priceline.com/search" },
+  {
+    "name": "postman",
+    "url": "https://www.postman.com/company/careers/"
+  },
+  {
+    "name": "Practo",
+    "url": "https://practo.app.param.ai/jobs"
+  },
+  {
+    "name": "priceline",
+    "url": "https://careers.priceline.com/search"
+  },
   {
     "name": "Principal",
     "url": "https://www.principal.com/about-us/careers/global-jobs"
   },
-  { "name": "Privado.ai", "url": "https://www.privado.ai" },
+  {
+    "name": "Privado.ai",
+    "url": "https://www.privado.ai"
+  },
   {
     "name": "Providence Healthcare",
     "url": "https://www.providencehealthcare.org/careers"
@@ -567,49 +1407,142 @@
     "name": "Protegrity",
     "url": "https://jobs.lever.co/protegrity?location=Bengaluru"
   },
-  { "name": "Proximity Labs", "url": "https://www.proximity.tech/careers" },
-  { "name": "Prodapt", "url": "https://www.prodapt.com/en/careers/" },
-  { "name": "Publicis Sapient", "url": "https://careers.publicissapient.com/" },
-  { "name": "PubMatic", "url": "https://pubmatic.com/careers/home/" },
-  { "name": "Qualcomm", "url": "https://www.qualcomm.com/company/careers" },
-  { "name": "Quantiphi", "url": "https://quantiphi.com/careers/" },
+  {
+    "name": "Proximity Labs",
+    "url": "https://www.proximity.tech/careers"
+  },
+  {
+    "name": "Prodapt",
+    "url": "https://www.prodapt.com/en/careers/"
+  },
+  {
+    "name": "Publicis Sapient",
+    "url": "https://careers.publicissapient.com/"
+  },
+  {
+    "name": "PubMatic",
+    "url": "https://pubmatic.com/careers/home/"
+  },
+  {
+    "name": "Qualcomm",
+    "url": "https://www.qualcomm.com/company/careers"
+  },
+  {
+    "name": "Quantiphi",
+    "url": "https://quantiphi.com/careers/"
+  },
   {
     "name": "QuickSell",
     "url": "https://www.linkedin.com/company/quicksell/jobs/"
   },
-  { "name": "Quora", "url": "https://www.quora.com/careers" },
-  { "name": "Ramp", "url": "https://ramp.com/careers" },
-  { "name": "Razorpay", "url": "https://razorpay.com/jobs/" },
-  { "name": "Red hat", "url": "https://www.redhat.com/en/jobs" },
-  { "name": "Reelo", "url": "https://angel.co/company/reelohq" },
-  { "name": "Reprise", "url": "https://www.getreprise.com/careers/" },
-  { "name": "Rippling", "url": "https://www.rippling.com/careers" },
-  { "name": "Rivigo", "url": "https://www.rivigo.com/careers/" },
-  { "name": "Rocket Companies", "url": "https://www.myrocketcareer.com/" },
-  { "name": "Rockstar Games", "url": "https://www.rockstargames.com/careers/" },
-  { "name": "Rubrik", "url": "https://www.rubrik.com/company/careers" },
-  { "name": "Saavan", "url": "https://www.jiosaavn.com/corporate/jobs" },
-  { "name": "Sabre corporation", "url": "https://www.sabre.com/careers/" },
-  { "name": "SalaryBox", "url": "https://www.salarybox.in/careers" },
+  {
+    "name": "Quora",
+    "url": "https://www.quora.com/careers"
+  },
+  {
+    "name": "Ramp",
+    "url": "https://ramp.com/careers"
+  },
+  {
+    "name": "Razorpay",
+    "url": "https://razorpay.com/jobs/"
+  },
+  {
+    "name": "Red hat",
+    "url": "https://www.redhat.com/en/jobs"
+  },
+  {
+    "name": "Reelo",
+    "url": "https://angel.co/company/reelohq"
+  },
+  {
+    "name": "Reprise",
+    "url": "https://www.getreprise.com/careers/"
+  },
+  {
+    "name": "Rippling",
+    "url": "https://www.rippling.com/careers"
+  },
+  {
+    "name": "Rivigo",
+    "url": "https://www.rivigo.com/careers/"
+  },
+  {
+    "name": "Rocket Companies",
+    "url": "https://www.myrocketcareer.com/"
+  },
+  {
+    "name": "Rockstar Games",
+    "url": "https://www.rockstargames.com/careers/"
+  },
+  {
+    "name": "Rubrik",
+    "url": "https://www.rubrik.com/company/careers"
+  },
+  {
+    "name": "Saavan",
+    "url": "https://www.jiosaavn.com/corporate/jobs"
+  },
+  {
+    "name": "Sabre corporation",
+    "url": "https://www.sabre.com/careers/"
+  },
+  {
+    "name": "SalaryBox",
+    "url": "https://www.salarybox.in/careers"
+  },
   {
     "name": "Salesforce",
     "url": "https://www.salesforce.com/company/careers/"
   },
-  { "name": "Samsung", "url": "https://www.samsung.com/in/about-us/careers/" },
-  { "name": "SAP", "url": "https://jobs.sap.com/" },
+  {
+    "name": "Samsung",
+    "url": "https://www.samsung.com/in/about-us/careers/"
+  },
+  {
+    "name": "SAP",
+    "url": "https://jobs.sap.com/"
+  },
   {
     "name": "Schneider Electric",
     "url": "https://www.se.com/in/en/about-us/careers/overview.jsp"
   },
-  { "name": "SendinBlue", "url": "https://jobs.sendinblue.com/en" },
-  { "name": "SerpApi", "url": "https://serpapi.com/team" },
-  { "name": "ServiceNow", "url": "https://www.servicenow.com/careers.html" },
-  { "name": "Shaadi.com", "url": "https://www.naukri.com/" },
-  { "name": "ShareChat", "url": "https://sharechat.com/careers" },
-  { "name": "Shell", "url": "https://www.shell.com/careers.html" },
-  { "name": "Shipsy", "url": "https://shipsy.io/career/" },
-  { "name": "Shopee", "url": "https://careers.shopee.sg/" },
-  { "name": "Shopify", "url": "https://www.shopify.com/careers" },
+  {
+    "name": "Brevo",
+    "url": "https://jobs.brevo.com/en/"
+  },
+  {
+    "name": "SerpApi",
+    "url": "https://serpapi.com/team"
+  },
+  {
+    "name": "ServiceNow",
+    "url": "https://www.servicenow.com/careers.html"
+  },
+  {
+    "name": "Shaadi.com",
+    "url": "https://www.naukri.com/"
+  },
+  {
+    "name": "ShareChat",
+    "url": "https://sharechat.com/careers"
+  },
+  {
+    "name": "Shell",
+    "url": "https://www.shell.com/careers.html"
+  },
+  {
+    "name": "Shipsy",
+    "url": "https://shipsy.io/career/"
+  },
+  {
+    "name": "Shopee",
+    "url": "https://careers.shopee.sg/"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://www.shopify.com/careers"
+  },
   {
     "name": "Siemens",
     "url": "https://new.siemens.com/global/en/company/jobs/our-locations/india.html"
@@ -618,12 +1551,18 @@
     "name": "Siemens Healthineers",
     "url": "https://www.siemens-healthineers.com/en-in/careers"
   },
-  { "name": "Sigmoid", "url": "https://www.sigmoid.com/careers/" },
+  {
+    "name": "Sigmoid",
+    "url": "https://www.sigmoid.com/careers/"
+  },
   {
     "name": "SkillVertex",
     "url": "https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000"
   },
-  { "name": "Skyroot Aerospace", "url": "https://skyroot.in/join/" },
+  {
+    "name": "Skyroot Aerospace",
+    "url": "https://skyroot.in/join/"
+  },
   {
     "name": "Sling Media",
     "url": "https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in"
@@ -632,30 +1571,78 @@
     "name": "Smith Detection",
     "url": "https://www.smithsdetection.com/careers/"
   },
-  { "name": "Sony", "url": "https://www.sonyjobs.com/careers.html" },
-  { "name": "Spinny", "url": "https://spinny.freshteam.com/jobs" },
-  { "name": "Sprinklr", "url": "https://www.sprinklr.com/careers/" },
-  { "name": "Squadstack", "url": "https://www.squadstack.com/careers/" },
-  { "name": "Stripe", "url": "https://stripe.com/in/jobs" },
-  { "name": "Sureify", "url": "https://sureify.com/careers/" },
-  { "name": "Swiggy", "url": "https://careers.swiggy.com/" },
-  { "name": "Synopsys", "url": "https://www.synopsys.com/careers.html" },
-  { "name": "Target", "url": "https://corporate.target.com/careers" },
+  {
+    "name": "Sony",
+    "url": "https://www.sonyjobs.com/careers.html"
+  },
+  {
+    "name": "Spinny",
+    "url": "https://www.spinny.com/careers/"
+  },
+  {
+    "name": "Sprinklr",
+    "url": "https://www.sprinklr.com/careers/"
+  },
+  {
+    "name": "Squadstack",
+    "url": "https://www.squadstack.com/careers/"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/in/jobs"
+  },
+  {
+    "name": "Sureify",
+    "url": "https://sureify.com/careers/"
+  },
+  {
+    "name": "Swiggy",
+    "url": "https://careers.swiggy.com/"
+  },
+  {
+    "name": "Synopsys",
+    "url": "https://www.synopsys.com/careers.html"
+  },
+  {
+    "name": "Target",
+    "url": "https://corporate.target.com/careers"
+  },
   {
     "name": "TATA Advanced Sysytems Ltd",
     "url": "https://www.tataadvancedsystems.com/careers"
   },
-  { "name": "TATA nexarc", "url": "https://www.tatanexarc.com/careers/" },
-  { "name": "TE Connectivity", "url": "https://careers.te.com/" },
-  { "name": "TEK Systems", "url": "https://www.teksystems.com/en-in/careers" },
-  { "name": "Tekion corp", "url": "https://tekion.com/careers" },
+  {
+    "name": "TATA nexarc",
+    "url": "https://www.tatanexarc.com/careers/"
+  },
+  {
+    "name": "TE Connectivity",
+    "url": "https://careers.te.com/"
+  },
+  {
+    "name": "TEK Systems",
+    "url": "https://www.teksystems.com/en-in/careers"
+  },
+  {
+    "name": "Tekion corp",
+    "url": "https://tekion.com/careers"
+  },
   {
     "name": "Tencent",
     "url": "https://careers.tencent.com/en-us/search.html?query=ot_40001001,ot_40001002,ot_40001003,ot_40001004,ot_40001005,ot_40001006"
   },
-  { "name": "Tesla", "url": "https://www.tesla.com/careers" },
-  { "name": "Teradata", "url": "https://careers.teradata.com/" },
-  { "name": "Texas Instruments", "url": "https://careers.ti.com/" },
+  {
+    "name": "Tesla",
+    "url": "https://www.tesla.com/careers"
+  },
+  {
+    "name": "Teradata",
+    "url": "https://careers.teradata.com/"
+  },
+  {
+    "name": "Texas Instruments",
+    "url": "https://careers.ti.com/"
+  },
   {
     "name": "TSMC",
     "url": "https://www.tsmc.com/static/english/careers/index.htm"
@@ -668,8 +1655,14 @@
     "name": "ThoughtWorks",
     "url": "https://www.thoughtworks.com/careers/jobs"
   },
-  { "name": "Topcoder", "url": "https://www.topcoder.com/company/jobs/" },
-  { "name": "Toptal", "url": "https://www.toptal.com/careers" },
+  {
+    "name": "Topcoder",
+    "url": "https://www.topcoder.com/company/jobs/"
+  },
+  {
+    "name": "Toptal",
+    "url": "https://www.toptal.com/careers"
+  },
   {
     "name": "tower research capital",
     "url": "https://www.tower-research.com/positions"
@@ -678,57 +1671,196 @@
     "name": "Treebo Hotels",
     "url": "https://www.linkedin.com/company/treebohotels/jobs/"
   },
-  { "name": "Turvo", "url": "https://turvo.com/careers/" },
-  { "name": "Twilio", "url": "https://www.twilio.com/company/jobs" },
-  { "name": "Twitter", "url": "https://careers.twitter.com/" },
-  { "name": "Uber", "url": "https://www.uber.com/us/en/careers/" },
-  { "name": "Ubisoft", "url": "https://www.ubisoft.com/en-us/company/careers" },
-  { "name": "Udaan", "url": "https://careers.udaan.com/" },
-  { "name": "Ultimate Kronos Group", "url": "https://careers.ukg.com/" },
-  { "name": "unacadamy", "url": "https://unacademy.com/careers" },
-  { "name": "Unicommerce", "url": "https://unicommerce.com/careers/" },
-  { "name": "Unisys", "url": "https://jobs.unisys.com/us/en" },
-  { "name": "Upgrad", "url": "https://www.upgrad.com/us/careers/" },
-  { "name": "Upstox", "url": "https://jobs.lever.co/upstox" },
-  { "name": "Upwork", "url": "https://www.upwork.com/careers" },
-  { "name": "Urban company", "url": "https://careers.urbancompany.com/" },
-  { "name": "Valuefy", "url": "https://valuefy-solutions.breezy.hr/" },
-  { "name": "Viasat", "url": "https://careers.viasat.com/" },
-  { "name": "Vicara", "url": "https://vicara.ch/careers/" },
-  { "name": "Visa", "url": "https://www.visa.co.in/careers.html" },
-  { "name": "Vmware", "url": "https://careers.vmware.com/main/" },
-  { "name": "Vogo", "url": "https://vogo.in/careers/" },
-  { "name": "Walmart", "url": "https://careers.walmart.com/technology" },
+  {
+    "name": "Turvo",
+    "url": "https://turvo.com/careers/"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://www.twilio.com/company/jobs"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://careers.twitter.com/"
+  },
+  {
+    "name": "Uber",
+    "url": "https://www.uber.com/us/en/careers/"
+  },
+  {
+    "name": "Ubisoft",
+    "url": "https://www.ubisoft.com/en-us/company/careers"
+  },
+  {
+    "name": "Udaan",
+    "url": "https://careers.udaan.com/"
+  },
+  {
+    "name": "Ultimate Kronos Group",
+    "url": "https://careers.ukg.com/"
+  },
+  {
+    "name": "unacadamy",
+    "url": "https://unacademy.com/careers"
+  },
+  {
+    "name": "Unicommerce",
+    "url": "https://unicommerce.com/careers/"
+  },
+  {
+    "name": "Unisys",
+    "url": "https://jobs.unisys.com/us/en"
+  },
+  {
+    "name": "Upgrad",
+    "url": "https://www.upgrad.com/us/careers/"
+  },
+  {
+    "name": "Upstox",
+    "url": "https://jobs.lever.co/upstox"
+  },
+  {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/careers"
+  },
+  {
+    "name": "Urban company",
+    "url": "https://careers.urbancompany.com/"
+  },
+  {
+    "name": "Valuefy",
+    "url": "https://valuefy-solutions.breezy.hr/"
+  },
+  {
+    "name": "Viasat",
+    "url": "https://careers.viasat.com/"
+  },
+  {
+    "name": "Vicara",
+    "url": "https://vicara.ch/careers/"
+  },
+  {
+    "name": "Visa",
+    "url": "https://www.visa.co.in/careers.html"
+  },
+  {
+    "name": "Vmware",
+    "url": "https://careers.vmware.com/main/"
+  },
+  {
+    "name": "Vogo",
+    "url": "https://vogo.in/careers/"
+  },
+  {
+    "name": "Walmart",
+    "url": "https://careers.walmart.com/technology"
+  },
   {
     "name": "Warner Bros.",
     "url": "https://warnermediacareers.com/warner-bros-jobs"
   },
-  { "name": "Wells Fargo", "url": "https://www.wellsfargo.com/about/careers/" },
-  { "name": "Western Digital", "url": "https://jobs.westerndigital.com/" },
-  { "name": "Whatfix", "url": "https://whatfix.com/careers/" },
-  { "name": "Wooqer", "url": "https://wooqer.com/careers/" },
-  { "name": "worldQuant", "url": "https://www.worldquant.com/careers/" },
-  { "name": "Xiaomi", "url": "https://xiaomi.app.param.ai/jobs/" },
-  { "name": "Xicom Technologies", "url": "https://www.xicom.biz/careers/" },
-  { "name": "Yahoo", "url": "https://research.yahoo.com/careers" },
-  { "name": "yellow.ai", "url": "https://yellow.ai/career" },
-  { "name": "yugabyte", "url": "https://www.yugabyte.com/careers/" },
-  { "name": "Yulu Bikes", "url": "https://www.yulu.bike/careers/" },
-  { "name": "zerodha", "url": "https://careers.zerodha.com/" },
-  { "name": "Zeta", "url": "https://careers.zeta.tech/work-with-us/" },
-  { "name": "ZivaMe", "url": "https://careers.zivame.com/" },
-  { "name": "zoho", "url": "https://careers.zohocorp.com/jobs/Careers" },
-  { "name": "Zomato", "url": "https://www.zomato.com/careers" },
-  { "name": "ZoomCar", "url": "https://www.zoomcar.com/careers" },
-  { "name": "ZS", "url": "https://jobs.zs.com/all/jobs" },
-  { "name": "1 mg", "url": "https://www.1mg.com/jobs" },
-  { "name": "3i Infotech", "url": "https://www.3i-infotech.com/careers/" },
-  { "name": "314e Corporation", "url": "https://www.314e.com/" },
-  { "name": "247.ai", "url": "https://www.247.ai/company/careers" },
-  { "name": "4i Apps", "url": "https://www.4iapps.com/careers/#jobs" },
-  { "name": "Huggingface", "url": "https://apply.workable.com/huggingface/" },
+  {
+    "name": "Wells Fargo",
+    "url": "https://www.wellsfargo.com/about/careers/"
+  },
+  {
+    "name": "Western Digital",
+    "url": "https://jobs.westerndigital.com/"
+  },
+  {
+    "name": "Whatfix",
+    "url": "https://whatfix.com/careers/"
+  },
+  {
+    "name": "Wooqer",
+    "url": "https://wooqer.com/careers/"
+  },
+  {
+    "name": "worldQuant",
+    "url": "https://www.worldquant.com/careers/"
+  },
+  {
+    "name": "Xiaomi",
+    "url": "https://xiaomi.app.param.ai/jobs/"
+  },
+  {
+    "name": "Xicom Technologies",
+    "url": "https://www.xicom.biz/careers/"
+  },
+  {
+    "name": "Yahoo",
+    "url": "https://research.yahoo.com/careers"
+  },
+  {
+    "name": "yellow.ai",
+    "url": "https://yellow.ai/career"
+  },
+  {
+    "name": "yugabyte",
+    "url": "https://www.yugabyte.com/careers/"
+  },
+  {
+    "name": "Yulu Bikes",
+    "url": "https://www.yulu.bike/careers/"
+  },
+  {
+    "name": "zerodha",
+    "url": "https://careers.zerodha.com/"
+  },
+  {
+    "name": "Zeta",
+    "url": "https://careers.zeta.tech/work-with-us/"
+  },
+  {
+    "name": "ZivaMe",
+    "url": "https://careers.zivame.com/"
+  },
+  {
+    "name": "zoho",
+    "url": "https://careers.zohocorp.com/jobs/Careers"
+  },
+  {
+    "name": "Zomato",
+    "url": "https://www.zomato.com/careers"
+  },
+  {
+    "name": "ZoomCar",
+    "url": "https://www.zoomcar.com/careers"
+  },
+  {
+    "name": "ZS",
+    "url": "https://jobs.zs.com/all/jobs"
+  },
+  {
+    "name": "1 mg",
+    "url": "https://www.1mg.com/jobs"
+  },
+  {
+    "name": "3i Infotech",
+    "url": "https://www.3i-infotech.com/careers/"
+  },
+  {
+    "name": "314e Corporation",
+    "url": "https://www.314e.com/"
+  },
+  {
+    "name": "247.ai",
+    "url": "https://www.247.ai/company/careers"
+  },
+  {
+    "name": "4i Apps",
+    "url": "https://www.4iapps.com/careers/#jobs"
+  },
+  {
+    "name": "Huggingface",
+    "url": "https://apply.workable.com/huggingface/"
+  },
   {
     "name": "Topcoder",
     "url": "https://www.topcoder.com/gigs?referralId=sl3r4z"
+  },
+  {
+    "name": "Kissflow",
+    "url": "https://careers.kissflow.com/"
   }
 ]
