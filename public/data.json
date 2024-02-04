@@ -1,11 +1,20 @@
 [
-  { "name": "Accenture", "url": "https://accord-global.com/careers.html" },
-  { "name": "Accolite software", "url": "https://www.accolite.com/careers" },
+  {
+    "name": "Accenture",
+    "url": "https://www.accenture.com/in-en/careers"
+  },
+  {
+    "name": "Accolite software",
+    "url": "https://www.accolite.com/careers"
+  },
   {
     "name": "Accord software",
     "url": "https://accord-global.com/careers.html"
   },
-  { "name": "Adobe", "url": "https://www.adobe.com/careers.html" },
+  {
+    "name": "Adobe",
+    "url": "https://www.adobe.com/careers.html"
+  },
   { "name": "Able", "url": "https://able.co/team" },
   { "name": "Abstract", "url": "https://angel.co/company/abstract/jobs" },
   { "name": "Acko", "url": "https://acko.skillate.com/" },
@@ -634,7 +643,7 @@
   { "name": "Target", "url": "https://corporate.target.com/careers" },
   {
     "name": "TATA Advanced Sysytems Ltd",
-    "url": "https://www.tataadvancedsystems.com/careers.php"
+    "url": "https://www.tataadvancedsystems.com/careers"
   },
   { "name": "TATA nexarc", "url": "https://www.tatanexarc.com/careers/" },
   { "name": "TE Connectivity", "url": "https://careers.te.com/" },
@@ -718,5 +727,8 @@
   { "name": "247.ai", "url": "https://www.247.ai/company/careers" },
   { "name": "4i Apps", "url": "https://www.4iapps.com/careers/#jobs" },
   { "name": "Huggingface", "url": "https://apply.workable.com/huggingface/" },
-  { "name": "Topcoder", "url": "https://www.topcoder.com/gigs?referralId=sl3r4z"}
+  {
+    "name": "Topcoder",
+    "url": "https://www.topcoder.com/gigs?referralId=sl3r4z"
+  }
 ]
